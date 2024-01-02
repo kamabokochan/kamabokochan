@@ -1,10 +1,18 @@
+# 🧸🍭
+❤️🧡💛💚💙💜
+<p>Hi there, I'm Kamabokochan, a web application developer.</p>
+<p>I mainly work as a Frontend engineer.</p>
+
 <div>
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kamabokochan&theme=onedark" />
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamabokochan&layout=compact&theme=onedark" />
 </div>
 
 <!--
+
 🐝🍯🧸❤️🧡💛💚💙💜
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="typescript" />
 
 # Hi there, I'm Your Name! 👋
 
