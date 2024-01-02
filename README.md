@@ -1,7 +1,7 @@
-<section>
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=kamabokochan&theme=onedark" />
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamabokochan&layout=compact&theme=onedark" />
-</section>
+<div>
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kamabokochan&theme=onedark" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamabokochan&layout=compact&theme=onedark" />
+</div>
 
 <!--
 🐝🍯🧸❤️🧡💛💚💙💜
